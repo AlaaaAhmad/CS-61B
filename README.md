@@ -1,1 +1,1 @@
-# DS-Course-Notes
+# CS 61B Notes
